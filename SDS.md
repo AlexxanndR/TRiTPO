@@ -2,9 +2,9 @@
 ---
 
 # Содержание
-1  [Диаграмма вариантов использования](#use_case)
-1.1 [Актёры] (#actors)  
-1.2 [Варианты использования] (#use_case_diagram)
+1  [Диаграмма вариантов использования](#use_case)  
+  1.1 [Актёры](#actors)  
+  1.2 [Варианты использования](#use_case_diagram)  
 2 [Диаграмма активностей](#activity)  
 3 [Диаграмма последовательностей](#sequence)  
 4 [Диаграмма состояний](#state)  
@@ -77,9 +77,11 @@
 
 ![State](https://user-images.githubusercontent.com/71378966/204787914-b812ef49-fcff-4ffa-876a-017801681798.png)
 
-# 5 Диаграмма классов
+# 5 Диаграмма классов![Class Diagram]
 
+<a name="classes"/>
 
+![Class Diagram](https://user-images.githubusercontent.com/74370361/204996780-472a4725-7026-42be-b75e-f77703c516c5.png)
 
 # 6 Схема базы данных
 
