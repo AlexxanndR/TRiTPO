@@ -77,7 +77,7 @@
 
 ![State](https://user-images.githubusercontent.com/71378966/204787914-b812ef49-fcff-4ffa-876a-017801681798.png)
 
-# 5 Диаграмма классов![Class Diagram]
+# 5 Диаграмма классов
 
 <a name="classes"/>
 
